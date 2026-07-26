@@ -8,7 +8,7 @@ Lightweight, high-performance AI Agent Service Provider built onchain.
 ## 🛠 Tech Stack
 - **Framework:** Next.js (App Router)
 - **Language:** TypeScript
-- **Network:** ENI Chain
+- **Network:** ETHEREUM Chain
 - **Deployment:** Vercel
 
 ## 📌 Features
